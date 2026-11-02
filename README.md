@@ -46,8 +46,7 @@ business details without permission.
 - Browser storage for demo persistence
 - Cross-tab updates within the same browser
 
-This is a learning prototype. It will not provide real-time sync between
-different computers, real user authentication, billing, or supplier ordering.
+This is a learning prototype.
 
 ## How to run
 
